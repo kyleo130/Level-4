@@ -16,7 +16,8 @@ let defaultCode =
 // e.g. passcodes = "4qj9fi0xwir3";
 // splitedPasscodes = ["4qj", "9fi", "0xw", "ir3"];
 
-// It is guaranteed that the length of variable "passcodes" is 12.
+// It is guaranteed that the length of 
+// variable "passcodes" is 12.
 // The passcodes won't contain spaces.
 
 function splitPasscodes(passcodes) {
